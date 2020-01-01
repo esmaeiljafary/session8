@@ -1,10 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
-</head>
-	<!-- start menu -->
+<!-- start menu -->
 	<div class="menu">
 		<span>
 		<ul>
@@ -55,9 +49,4 @@
 				</span>
 		
 	</div>
-	<!-- end menu -->
-
-<body>
-	
-</body>
-</html>
+<!-- end menu -->
