@@ -8,9 +8,10 @@
 </head>
 
 <body>
-	<a href="#jjj"></a>
+	
 	<!-- start footer -->
 	<div class="footer">
+		<marquee direction="right"><h1>فروشگاه همه چی کالا ارائه کننده با کیفیت ترین اجناس می باشد کافی است یکبار امتحان کنید</h1></marquee>
 		<span class="ftozih" >
 		<!--<table dir="rtl" align="center">-->
 			<ul>
