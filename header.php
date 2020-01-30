@@ -15,6 +15,7 @@
 	<div class="header">
 		<!--<span class="title">-->
 			<img src="images/kala/همه چی کالا.gif">
+		<marquee direction="right"><h1> فروشگاه همه چی کالا ارائه دهنده با کیفیت ترین کالا ها می باشد کافیست یکبار امتحان نمایید تا مشتری ثابت ما بشوید</h1></marquee>
 			<!--</span>-->
 			
 		<!--<span class="service"><h3>ارایه کننده محصولات فناوری اطلاعات</h3></span>
@@ -24,13 +25,16 @@
 	<span>
 		<ul>
 			<li>
-				<a href="register user/index.php"><input type="submit" name="loginUser" id="loginUser" value="ثبت نام" class="regestermenu"></a>
+				<a href="register user/index.php"> <button>ثبت نام</button></a>
 			</li>
 			<li>
-					<a href="admin/index.php"><input type="submit" name="loginUser" id="loginUser" value="ورود " class="singin"></a>
+					<a href="admin/index.php"><button>ورود</button></a>
 			</li>
-			<li><div class="animtext"><marquee direction="right">ارائه کننده جدیدترین لوازم خانگی،بهداشتی آرایشی،
-    صوتی و تصویری،لوازم ورزشی،مواد غذایی و پوشاک هفت روز هفته ، 24 ساعنه</marquee></div></li>
+			<li>
+				<ul><li>
+					</li>
+				</ul>
+			</li>
     
 		</ul>
 	</span>	
